@@ -13,6 +13,7 @@
 		CDE5EC5C205A3DBC00E10D79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDE5EC5B205A3DBC00E10D79 /* Assets.xcassets */; };
 		CDE5EC5F205A3DBC00E10D79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CDE5EC5D205A3DBC00E10D79 /* LaunchScreen.storyboard */; };
 		CDE5EC62205A3DBC00E10D79 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CDE5EC61205A3DBC00E10D79 /* main.m */; };
+		CDE5EC69205A3DC900E10D79 /* provinces_cities.plist in Resources */ = {isa = PBXBuildFile; fileRef = CDE5EC68205A3DC900E10D79 /* provinces_cities.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CDE5EC5E205A3DBC00E10D79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CDE5EC60205A3DBC00E10D79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDE5EC61205A3DBC00E10D79 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CDE5EC68205A3DC900E10D79 /* provinces_cities.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = provinces_cities.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CDE5EC53205A3DBC00E10D79 /* AppDelegate.m */,
 				CDE5EC55205A3DBC00E10D79 /* ViewController.h */,
 				CDE5EC56205A3DBC00E10D79 /* ViewController.m */,
+				CDE5EC68205A3DC900E10D79 /* provinces_cities.plist */,
 				CDE5EC58205A3DBC00E10D79 /* Main.storyboard */,
 				CDE5EC5B205A3DBC00E10D79 /* Assets.xcassets */,
 				CDE5EC5D205A3DBC00E10D79 /* LaunchScreen.storyboard */,
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDE5EC5F205A3DBC00E10D79 /* LaunchScreen.storyboard in Resources */,
+				CDE5EC69205A3DC900E10D79 /* provinces_cities.plist in Resources */,
 				CDE5EC5C205A3DBC00E10D79 /* Assets.xcassets in Resources */,
 				CDE5EC5A205A3DBC00E10D79 /* Main.storyboard in Resources */,
 			);
